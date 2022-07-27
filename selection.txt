@@ -1,0 +1,14 @@
+public class video
+{
+public static void main(String args[])
+{
+string name;
+string place;
+int age;
+if(name ++)
+{
+system.out.println("Name is:+name");
+system.out.println("emter the place:+place");
+system.out.println("enter your age:+age")
+}}
+}
